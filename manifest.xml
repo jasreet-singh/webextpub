@@ -4,7 +4,7 @@
 
     <!-- The version attribute represent the latest version available for the extension. -->
     <!-- The browser use this value to auto-update the extension. -->
-    <updatecheck codebase='https://temprgdiag967.blob.core.windows.net/crx/WebExt.crx'
+    <updatecheck codebase='https://yellow-island-03f572310.2.azurestaticapps.net/WebExt.crx'
                   version='3.2.2' />
   </app>
 </gupdate>
